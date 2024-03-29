@@ -1,0 +1,9 @@
+cffi==1.16.0
+customtkinter==5.2.2
+darkdetect==0.8.0
+numpy==1.26.4
+packaging==24.0
+pillow==10.2.0
+pycparser==2.21
+sounddevice==0.4.6
+soundfile==0.12.1
